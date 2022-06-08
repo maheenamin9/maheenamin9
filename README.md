@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Model building in Deep and Machine Learning**
 
-- ⚡ Fun fact **I am Naughty hehe😉**
+- ⚡ Fun fact **I am Funny hehe😉**
 
 <br>
 
