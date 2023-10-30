@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maheen Amin</h1>
 <p align="center">
-  <a href="https://github.com/maheenamin9"><img src="https://readme-typing-svg.herokuapp.com?lines=Associate+Software+Engineer;MERN+stack;Deep+Learning%20|%20Machine+Learning%20|%20AI;Computer+Vision%20|%20Data+Science;Web+Development;Artist;&center=true&width=640&height=50"></a>
+  <a href="https://github.com/maheenamin9"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;MERN+stack;Deep+Learning%20|%20Machine+Learning%20|%20AI;Computer+Vision%20|%20Data+Science;Web+Development;Artist;&center=true&width=640&height=50"></a>
 </p>
 
 
