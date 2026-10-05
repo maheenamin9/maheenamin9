@@ -6,11 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/maheenamin9?tab=repositories](https://github.com/maheenamin9?tab=repositories)
 
-- 🎨 I regularly used to sketch, paint on [https://www.instagram.com/maheen_artgallery](https://www.instagram.com/maheen_artgallery)
-
 - 💬 Ask me about **Model building in Deep and Machine Learning**
-
-- ⚡ Fun fact **I am Funny hehe😉**
 
 <br>
 
